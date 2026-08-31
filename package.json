@@ -1,6 +1,6 @@
 {
   "name": "ghl-mcp-server",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "GoHighLevel API v2 Model Context Protocol (MCP) Server for Sub-Accounts",
   "main": "dist/index.js",
   "type": "module",
